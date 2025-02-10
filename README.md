@@ -1,8 +1,18 @@
-# React + Vite
+Note Saver
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Note Saver is a simple paste app that allows users to store, edit, delete, view, and search pastes. Built using React, the app leverages React Router DOM for navigation, Redux Toolkit for state management, and React Toastify for notifications.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Create Paste: Store text-based pastes easily.
+Edit Paste: Modify your existing pastes.
+Delete Paste: Remove unwanted pastes.
+View Paste: Access and read stored pastes.
+Search Paste: Quickly find pastes by searching.
+User-Friendly UI: Simple and intuitive interface.
+
+Tech Stack
+React - Frontend library for building UI components.
+React Router DOM - Manages navigation between pages.
+Redux Toolkit - Efficient state management.
+React Toastify - Provides toast notifications.
